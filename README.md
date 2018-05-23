@@ -1,8 +1,8 @@
 # címsor1
 ## címsor2
 
-*lista
-*lista
+* lista
+* lista
 
 __félkövér__, _dőlt_, szöveg
 
